@@ -8,6 +8,12 @@
 
 4. **TO DO list (with backend)** - ([demo](https://to-do-list-one-umber-65.vercel.app/) | [github](https://github.com/zhuraveln/to-do-list))
 
+## 📦 My npm packages
+
+1. **custom-arr-methods** - ([npmjs](https://www.npmjs.com/package/custom-arr-methods) | [github](https://github.com/zhuraveln/custom-arr-methods))
+
+1. **immutable-arr-methods** - ([npmjs](https://www.npmjs.com/package/immutable-arr-methods) | [github](https://github.com/zhuraveln/immutable-arr-methods))
+
 ## 📫 Contacts
 
 - **Email**: zhuravel.nikita@gmail.com
